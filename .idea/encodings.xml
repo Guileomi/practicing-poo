@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/banco/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/construtor/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/distanciaxy/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/exemplovetor/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/exercicio1/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/exerciciobanco/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/listasforeach/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lojaestoque/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/notasaluno/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/radiuscalc/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/salariofuncionario/src/main/java" charset="UTF-8" />
+  </component>
+</project>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="notasaluno" />
+        <module name="construtor" />
+        <module name="exemplovetor" />
+        <module name="radiuscalc" />
+        <module name="distanciaxy" />
+        <module name="banco" />
+        <module name="exerciciobanco" />
+        <module name="lojaestoque" />
+        <module name="salariofuncionario" />
+        <module name="listasforeach" />
+        <module name="exercicio1" />
+      </profile>
+    </annotationProcessing>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="banco" options="-parameters" />
+      <module name="construtor" options="-parameters" />
+      <module name="distanciaxy" options="-parameters" />
+      <module name="exemplovetor" options="-parameters" />
+      <module name="exercicio1" options="-parameters" />
+      <module name="exerciciobanco" options="-parameters" />
+      <module name="listasforeach" options="-parameters" />
+      <module name="lojaestoque" options="-parameters" />
+      <module name="notasaluno" options="-parameters" />
+      <module name="radiuscalc" options="-parameters" />
+      <module name="salariofuncionario" options="-parameters" />
+    </option>
+  </component>
+</project>
