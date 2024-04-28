@@ -9,13 +9,13 @@
         <module name="notasaluno" />
         <module name="construtor" />
         <module name="exemplovetor" />
+        <module name="logica" />
         <module name="radiuscalc" />
         <module name="distanciaxy" />
         <module name="banco" />
         <module name="exerciciobanco" />
         <module name="lojaestoque" />
         <module name="salariofuncionario" />
-        <module name="listasforeach" />
         <module name="exercicio1" />
       </profile>
     </annotationProcessing>
@@ -28,7 +28,7 @@
       <module name="exemplovetor" options="-parameters" />
       <module name="exercicio1" options="-parameters" />
       <module name="exerciciobanco" options="-parameters" />
-      <module name="listasforeach" options="-parameters" />
+      <module name="logica" options="-parameters" />
       <module name="lojaestoque" options="-parameters" />
       <module name="notasaluno" options="-parameters" />
       <module name="radiuscalc" options="-parameters" />
